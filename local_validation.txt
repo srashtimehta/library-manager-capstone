@@ -1,0 +1,2 @@
+Validation target: GCC and Clang
+Expected automated test output: All library tests passed.

@@ -1,0 +1,8 @@
+[BOOKS]
+101|C++ Primer|Stanley Lippman|1
+102|Clean Code|Robert C. Martin|1
+103|The Pragmatic Programmer|David Thomas|1
+[MEMBERS]
+1|Aarav
+2|Priya
+[LOANS]
